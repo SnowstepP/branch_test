@@ -1,4 +1,0 @@
-asdfgqwertotal 5.0K
--rw-r--r-- 1 성준 197121 9 Oct  6 21:34 AA.txt
-drwxr-xr-x 1 성준 197121 0 Sep 29 17:39 NNEEWW/
-drwxr-xr-x 1 성준 197121 0 Sep 29 18:22 new_folder/

@@ -1,5 +1,0 @@
-school
-home
-class
-cat
-dog
